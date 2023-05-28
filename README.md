@@ -8,7 +8,7 @@ Então, durante 4 semanas vamos desenvolver um projeto que irá simular a rotina
 ## 1ª Semana - Analisando campanha de marketing
 
 <div align="center">
-<img src="dados/dados_semana1/logo-bloco-de-codigo.png" width="800px" />
+<img src="dados/dados_semana1/img/logo-bloco-de-codigo.png" width="800px" />
 </div>
 
 ### Contexto e objetivo
@@ -18,3 +18,7 @@ Nesse projeto, fomos contratado pelo blog **Bloco de Código**, para analisar as
 
 Dentro desse contexto, vamos utilizar técnicas de Business Intelligence (BI) para desenvolver um dashboard. O **Power BI** será a ferramenta utilizada.
 
+
+## Observação
+
+Já tratamos os dados e agora estamos acabando de criar as visualições para o dashboard.
