@@ -8,10 +8,8 @@ Então, durante 4 semanas vamos desenvolver um projeto que irá simular a rotina
 ## 1ª Semana - Analisando campanha de marketing
 
 <div align="center">
-<img src="dados/dados_semana1/img/logo-bloco-de-codigo.png" width="800px" />
+<img src="img/logo-bloco-de-codigo.png" width="800px" />
 </div>
-
-### Contexto e objetivo
 
 Nesse projeto, fomos contratado pelo blog **Bloco de Código**, para analisar as campanhas de marketing que fizeram para divulgar o blog. O blog conta com vários artigos para a área de tecnologia, como dados, marketing, experiência do usuário e vários outros assuntos.
 
@@ -19,6 +17,26 @@ Nesse projeto, fomos contratado pelo blog **Bloco de Código**, para analisar as
 Dentro desse contexto, vamos utilizar técnicas de Business Intelligence (BI) para desenvolver um dashboard. O **Power BI** será a ferramenta utilizada.
 
 
+### O dashboard ira conter as seguintes questões:
+
+* Valor do CTR (Click Through Rate)
+* Percentual de cliques que foi obtido direto das redes socias.
+* Percentual de vezes pesquisados, que é o percentual de quantas vezes o artigo foi buscado nos mecanismos de pesquisas.
+* O percentual de cliques pagos em relação ao total de visualizações que um conteúdo recebeu.
+* O percentual de visitas diretas é a relação entre o visitas diretas que um conteúdo recebeu ao o número de total de visualização.
+* Escolha uma visualização que permita analisar os novos usuários aos conteúdos do blog Bloco de código captados pela campanha de marketing. É importante lembrar que seja possível acompanhar a quantidade ao longo dos dias.
+
+
+
+## 2ª Semana - Logística, analisando dados 
+
+<div align="center">
+<img src="img/Hermex_logo.png" width="800px" />
+</div>
+
+Nessa semana, fomos contratado pela empresa **Hermex**, para analisar os dados sobre a logística das entregas do seu negócio.
+
+
 ## Observação
 
-Já tratamos os dados e agora estamos acabando de criar as visualições para o dashboard.
+Já finalizamos a primeira semana e agora estamos no projeto da segunda semana.
