@@ -20,6 +20,12 @@ Nesse primeira semana, fomos contratado pelo blog **Bloco de Código**, para ana
 * O percentual de visitas diretas é a relação entre o visitas diretas que um conteúdo recebeu ao o número de total de visualização;
 * A quantidade de novos usuários do blog captados pela campanha de marketing.
 
+O resultado do desenvolvimento do dashboard pode ser visualizado abaixo:
+
+<div align="center">
+<img src="img/bloco.gif" width="800px" />
+</div>
+
 
 
 ## 2ª Semana - Logística 
@@ -35,4 +41,17 @@ Nessa semana, fomos contratado pela empresa **Hermex**, para analisar os dados s
 * Cálculo do "Ship to door", que é o tempo da expedição até a chegada do produto para o cliente;
 * A quantidade de pedidos por estado;
 * Nível médio de estoque disponível por ano.
+
+O resultado do desenvolvimento do dashboard pode ser visualizado abaixo:
+
+<div align="center">
+<img src="img/hermex.gif" width="800px" />
+</div>
+
+
+## 3ª e 4ª Semana - Financeiro
+
+Nessas 2 últimas semanas, fomos contratado pela empresa **Meteora**, pois ela precisa entender como está o desempenho de suas vendas.
+
+Para dar início nas análises será necessario a princípio restaurar o banco de dados MySQL com arquivo de dump disponibilizado pela empresa. Atualmente estamos trabalahando nisso.
 
