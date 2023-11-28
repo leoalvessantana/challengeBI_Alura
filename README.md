@@ -1,17 +1,15 @@
 # Challenge de BI 3ª edição - Alura
 
-O Challenge da Alura é o momento de aplicar tudo que tem aprendido nos cursos de uma área específica da plataforma. Eles procuram simular o dia a dia nas empresas e foram criados para atender a demanda de unir a teoria de nossos cursos com a prática do mercado de trabalho.
+Esse é um projeto desenvolvido por mim durante o Challenge de BI 3ª Edição promovido pela Alura, uma plataforma online de cursos de tecnologia. A ideia do Challenge é simular uma experiência de trabalho.
+Nesse Challenge desenvolvemos 3 projetos com diferentes níveis de complexidade.
 
-Então, durante 4 semanas vamos desenvolver um projeto que irá simular a rotina de trabalho. Esse projeto vai ser dividido em desafios com diferentes níveis de complexidade.
-
-
-## 1ª Semana - Campanha de Marketing
+## 1ª Projeto - Campanha de Marketing
 
 <div align="center">
 <img src="img/logo-bloco-de-codigo.png" width="800px" />
 </div>
 
-Nesse primeira semana, fomos contratado pelo blog **Bloco de Código**, para analisar as campanhas de marketing que fizeram para divulgar o blog. O blog conta com vários artigos para a área de tecnologia, como dados, marketing, experiência do usuário e vários outros assuntos.  O dashboard foi desenvolvido no Power BI e nele encontramos as seguintes questões:
+Fomos contratado pelo blog **Bloco de Código**, para analisar as campanhas de marketing que fizeram para divulgar o blog. O blog conta com vários artigos para a área de tecnologia, como dados, marketing, experiência do usuário e vários outros assuntos.  O dashboard foi desenvolvido no Power BI e nele encontramos as seguintes questões:
 
 * Valor do CTR (Click Through Rate);
 * Percentual de cliques que foi obtido direto das redes socias;
@@ -28,13 +26,13 @@ O resultado do desenvolvimento do dashboard pode ser visualizado abaixo:
 
 
 
-## 2ª Semana - Logística 
+## 2ª Projeto - Logística 
 
 <div align="center">
 <img src="img/Hermex_logo.png" width="800px" />
 </div>
 
-Nessa semana, fomos contratado pela empresa **Hermex**, para analisar os dados sobre a logística das entregas do seu negócio do périodo de 2019 até 2021. O dashboard foi desenvolvido no Power BI, com o objetivo principal de compreender melhor a distribuição de pedidos em todo território nacional, entender KPIs como Ship to Door, além de acompanhar o estoque e veículos disponíveis. No dashboard encontramos as seguintes questões:
+Fomos contratado pela empresa **Hermex**, para analisar os dados sobre a logística das entregas do seu negócio do périodo de 2019 até 2021. O dashboard foi desenvolvido no Power BI, com o objetivo principal de compreender melhor a distribuição de pedidos em todo território nacional, entender KPIs como Ship to Door, além de acompanhar o estoque e veículos disponíveis. No dashboard encontramos as seguintes questões:
 
 * Status das Entregas (Pedidos entregues no prazo, fora do prazo e em trânsito);
 * Número de veículos disponíveis para entrega;
@@ -49,9 +47,34 @@ O resultado do desenvolvimento do dashboard pode ser visualizado abaixo:
 </div>
 
 
-## 3ª e 4ª Semana - Financeiro
+## 3ª Projeto - Financeiro
 
-Nessas 2 últimas semanas, fomos contratado pela empresa **Meteora**, pois ela precisa entender como está o desempenho de suas vendas.
+<div align="center">
+<img src="img/Meteora_logo.png" width="800px" />
+</div>
 
-Para dar início nas análises será necessario a princípio restaurar o banco de dados MySQL com arquivo de dump disponibilizado pela empresa. Atualmente estamos trabalahando nisso.
+Vamos analisar dados financeiros da Meteora, um e-commerce especializado na venda de roupas. Ela  precisa entender como anda a sua área de vendas e com base em hipóteses, analisar possíveis mudanças de cenário.
+
+### 1 - Criação do Banco de Dados da empresa Meteora
+
+#### Modelagem do banco de dados
+
+<div align="center">
+<img src="img/ModeloRelacional.png" width="800px" />
+</div>
+
+#### Criação do banco de dados
+
+A METEORA já possui seus dados armazenados em planilha de Excel, como pode ser visto no arquivo [Meteora-matriz](dados/dados_semana3/Meteora-matriz.xlsx). Com isso Fiz o download de cada tabela (produtos, pedidos, itens_pedidos e vendedores) no formato .CSV para logo em seguida enseri-las no banco de dados que vamos criar.
+
+Para criar o banco de dados da Meteora usamos o MySQL. O script para criar o banco e as tabelas do banco pode ser visto em [database_meteora](database_meteora.sql)
+
+
+### 2 - Criação do Dashboard
+
+Para a construção do dashboard conectamos o banco de dados criado no MySQL com o Power BI. Essa coneção so foi possivel pois estalamos um conetor que pode ser encontrado no site https://dev.mysql.com/downloads/connector/net/.
+
+
+
+
 
