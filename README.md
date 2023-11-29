@@ -25,6 +25,8 @@ O resultado do desenvolvimento do dashboard pode ser visualizado abaixo:
 </div>
 
 
+Para mais detalhes veja o arquivo [bloco_de_notas.pbix](bloco_de_notas.pbix).
+
 
 ## 2ª Projeto - Logística 
 
@@ -45,6 +47,9 @@ O resultado do desenvolvimento do dashboard pode ser visualizado abaixo:
 <div align="center">
 <img src="img/hermex.gif" width="800px" />
 </div>
+
+Para mais detalhes veja o arquivo [hermex.pbix](hermex.pbix).
+
 
 
 ## 3ª Projeto - Financeiro
@@ -72,9 +77,21 @@ Para criar o banco de dados da Meteora usamos o MySQL. O script para criar o ban
 
 ### 2 - Criação do Dashboard
 
-Para a construção do dashboard conectamos o banco de dados criado no MySQL com o Power BI. Essa coneção so foi possivel pois estalamos um conetor que pode ser encontrado no site https://dev.mysql.com/downloads/connector/net/.
+Para a construção do dashboard conectamos o banco de dados criado no MySQL com o Power BI. Essa conecção so foi possivel pois instalamos um conector que pode ser encontrado no site https://dev.mysql.com/downloads/connector/net/.
 
 
+No dashboard encontramos as seguintes questões:
 
+* O valor da Receita da Meteora;
+* O lucro total e ao longo do tempo;
+* As despesas;
+* A quantidade de itens vendidos;
+* A quantidade de vendas por estado.
 
+O resultado do desenvolvimento do dashboard pode ser visualizado abaixo:
 
+<div align="center">
+<img src="img/Meteora_dash.png" width="800px" />
+</div>
+
+Para mais detalhes veja o arquivo [meteora.pbix](meteora.pbix).
