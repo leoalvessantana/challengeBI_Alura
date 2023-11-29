@@ -18,14 +18,14 @@ Fomos contratado pelo blog **Bloco de Código**, para analisar as campanhas de m
 * O percentual de visitas diretas é a relação entre o visitas diretas que um conteúdo recebeu ao o número de total de visualização;
 * A quantidade de novos usuários do blog captados pela campanha de marketing.
 
-O resultado do desenvolvimento do dashboard pode ser visualizado abaixo:
+O resultado do desenvolvimento do dashboard pode ser visualizado abaixo (Para mais detalhes veja o arquivo [bloco_de_notas.pbix](bloco_de_notas.pbix)):
 
 <div align="center">
 <img src="img/bloco.gif" width="800px" />
 </div>
 
 
-Para mais detalhes veja o arquivo [bloco_de_notas.pbix](bloco_de_notas.pbix).
+
 
 
 ## 2ª Projeto - Logística 
@@ -42,13 +42,13 @@ Fomos contratado pela empresa **Hermex**, para analisar os dados sobre a logíst
 * A quantidade de pedidos por estado;
 * Nível médio de estoque disponível por ano.
 
-O resultado do desenvolvimento do dashboard pode ser visualizado abaixo:
+O resultado do desenvolvimento do dashboard pode ser visualizado abaixo (Para mais detalhes veja o arquivo [hermex.pbix](hermex.pbix)):
 
 <div align="center">
 <img src="img/hermex.gif" width="800px" />
 </div>
 
-Para mais detalhes veja o arquivo [hermex.pbix](hermex.pbix).
+
 
 
 
@@ -88,10 +88,10 @@ No dashboard encontramos as seguintes questões:
 * A quantidade de itens vendidos;
 * A quantidade de vendas por estado.
 
-O resultado do desenvolvimento do dashboard pode ser visualizado abaixo:
+O resultado do desenvolvimento do dashboard pode ser visualizado abaixo (Para mais detalhes veja o arquivo [meteora.pbix](meteora.pbix)):
 
 <div align="center">
 <img src="img/Meteora_dash.png" width="800px" />
 </div>
 
-Para mais detalhes veja o arquivo [meteora.pbix](meteora.pbix).
+
